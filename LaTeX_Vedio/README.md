@@ -8,15 +8,26 @@
 
 2.源文件基本结构
 
+- 导言区处设置全局属性
+
 3.latex中的中文处理方法
+
+- 提到了几个比较有用的文档ctex和lshort-zh
 
 4.latex的字体字号设置
 
+- 字体的声明、命令、形态、大小设置
+
 5.latex文档篇章的基本结构
+
+- `\tableofcontents`目录
+- 章节等
 
 6.latex中的特殊字符
 
 7.latex中的插图
+
+- 包`graphix`，文档`graphix`
 
 8.latex中的表格
 
@@ -27,6 +38,9 @@
 11.latex数学公式的矩阵
 
 12.latex数学公式的多行公式
+
+- `split`，多行公式编号在中间
+- &对齐
 
 13.latex中的参考文献BibTex
 
